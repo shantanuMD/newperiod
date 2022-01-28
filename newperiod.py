@@ -21,7 +21,7 @@ while(decision):
         return sum
     m=getSum(current)+1
     #print(m)
-      if(m%2==0):
+     
           print(newperiod+1," : RED")
       else:
           print(newperiod+1,"  : GREEN")
